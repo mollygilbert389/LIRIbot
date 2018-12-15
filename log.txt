@@ -1,0 +1,700 @@
+movie-this moana
+Title: Moana
+Year: 2016
+IMDB Rating: 7.6/10
+Rotten Tomatoes Score: 95%
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+--------------------------------------------
+concert-this taylor%20swift
+
+-------------------------------
+concert-this postmalone
+---------------
+Barclays Center
+Brooklyn
+2018-12-29T19:00:48
+---------------
+Barclays Center
+Brooklyn
+2018-12-31T18:00:00
+---------------
+State Farm Arena
+Atlanta
+2019-02-01T21:00:00
+---------------
+3Arena
+Dublin
+2019-02-14T19:00:08
+---------------
+Genting Arena
+Birmingham
+2019-02-16T19:00:11
+---------------
+Hydro
+Glasgow
+2019-02-17T19:00:06
+---------------
+Arena
+Manchester
+2019-02-19T19:00:06
+---------------
+Accorhotels Arena
+Paris
+2019-02-22T19:00:59
+---------------
+Ziggo Dome
+Amsterdam
+2019-02-25T19:00:17
+---------------
+Ziggo Dome
+Amsterdam
+2019-02-26T20:00:00
+---------------
+Barclaycard Arena
+Hamburg
+2019-02-27T19:00:37
+---------------
+Globen
+Stockholm
+2019-03-01T19:00:22
+---------------
+Royal Arena
+København
+2019-03-02T19:00:04
+---------------
+Mercedes-Benz Arena
+Berlin
+2019-03-04T19:00:42
+---------------
+Olympiahalle
+München
+2019-03-05T19:00:11
+---------------
+Hallenstadion
+Zürich
+2019-03-07T19:00:35
+---------------
+Koenig Pilsner Area
+Oberhausen
+2019-03-09T19:00:48
+---------------
+Sportpaleis Antwerpen
+Antwerpen
+2019-03-11T19:00:06
+---------------
+The O2 Arena
+London
+2019-03-13T19:00:50
+---------------
+The O2
+London
+2019-03-14T18:00:00
+---------------
+Phoenix Steele Indian School Park
+Phoenix
+2019-03-17T18:00:00
+---------------
+Lollapalooza Argentina 
+Buenos Aires
+2019-03-29T19:00:16
+---------------
+Lollapalooza Chile
+Santiago
+2019-03-29T19:00:17
+---------------
+Lollapalooza Chile
+Santiago
+2019-03-30T19:00:15
+---------------
+Lollapalooza Argentina 
+Buenos Aires
+2019-03-30T19:00:19
+---------------
+Lollapalooza Argentina 
+Buenos Aires
+2019-03-31T19:00:20
+---------------
+Lollapalooza Chile
+Santiago
+2019-03-31T19:00:51
+---------------
+Lollapalooza Brazil
+São Paulo
+2019-04-05T19:00:45
+---------------
+Lollapalooza Brazil
+São Paulo
+2019-04-06T19:00:44
+---------------
+Lollapalooza Brazil
+São Paulo
+2019-04-07T19:00:43
+---------------
+Perth Arena
+Perth
+2019-04-26T18:00:00
+---------------
+Adelaide Entertainment Centre
+Hindmarsh
+2019-04-28T18:00:00
+---------------
+Rod Laver Arena
+Melbourne
+2019-04-30T18:00:00
+---------------
+Rod Laver Arena
+Melbourne
+2019-05-01T18:00:00
+---------------
+Adelaide Entertainment Centre
+Hindmarsh
+2019-05-02T20:00:00
+---------------
+Entertainment Centre
+Brisbane
+2019-05-04T18:00:00
+---------------
+Entertainment Centre
+Brisbane
+2019-05-05T18:00:00
+---------------
+Quodos Bank Arena
+Sydney
+2019-05-07T18:00:00
+---------------
+Quodos Bank Arena
+Sydney
+2019-05-08T18:00:00
+---------------
+Adelaide Entertainment Centre
+Hindmarsh
+2019-05-09T18:00:00
+---------------
+Spark Arena
+Auckland
+2019-05-11T18:00:00
+---------------
+Spark Arena
+Auckland
+2019-05-12T19:00:00
+---------------
+Bramham Park
+Leeds
+2019-08-22T08:00:00
+---------------
+Richfield Avenue
+Reading
+2019-08-23T11:00:00
+
+-------------------------------
+concert-this taylorswift
+
+-------------------------------
+spotify-this-song 22
+---------------------
+Artists: Taylor Swift
+Song: 22
+Album: Red (Deluxe Edition)
+No Preview Link Available
+---------------------
+Artists: Taylor Swift
+Song: 22
+Album: Red
+No Preview Link Available
+---------------------
+Artists: Migos
+Song: Is You Ready - From "Mile 22"
+Album: Is You Ready (From "Mile 22")
+No Preview Link Available
+---------------------
+Artists: Kali Uchis
+Song: Flight 22
+Album: Isolation
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 22 (OVER S∞∞N)
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/93d24b43de01002a394e82313007ab0fd064c2c6?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 29 #Strafford APTS
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/3511dd24d56b17c6b2906d7110275c4f01f81812?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Abstract, Delaney
+Song: 22 (feat. Delaney)
+Album: Something to Write Home About
+Link: https://p.scdn.co/mp3-preview/c337d6cb6c7bb7f9fad2b2c5f2477834a321a444?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 33 “GOD”
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/67b51d90ffddd6bb3f095059997021b589845f81?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 8 (circle)
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/081447adc23dad4f79ba4f1082615d1c56edf5e1?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: M-22
+Song: How Does It Feel
+Album: How Does It Feel
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 715 - CR∑∑KS
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/6f9999d909b017eabef97234dd7a206355720d9d?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bay Faction
+Song: Sasquatch .22
+Album: Bay Faction
+Link: https://p.scdn.co/mp3-preview/55122c22d2357863b32447f8b662a09c7773f829?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Mau y Ricky
+Song: 22
+Album: 22
+Link: https://p.scdn.co/mp3-preview/d86c26f881271a1d4ccdb48c8005ed27aa04ce42?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Eagles
+Song: Hotel California - Live at the Los Angeles Forum, 10/20-22/76
+Album: Hotel California (40th Anniversary Expanded Edition)
+Link: https://p.scdn.co/mp3-preview/84a28e863e16a752c6956e571590ac2fae26cbc9?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 666 ʇ
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/3294569c2be3cdde2d96e7fc3cd0a612f5c282ba?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Wolfgang Amadeus Mozart, New Dutch Academy Chamber Orchestra, Simon Murphy
+Song: Symphony No. 5 in B-Flat Major, K. 22: II. Andante
+Album: Mozart: Famous Pieces
+Link: https://p.scdn.co/mp3-preview/0ccec782addbe2d20ef3728fe4179305bdfe82b8?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: mago
+Song: 22 Mai
+Album: 22 Mai
+Link: https://p.scdn.co/mp3-preview/1ee01e359824cb4a962bdbac3d85b3a24129e6ab?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Wolfgang Amadeus Mozart, Gilbert Schuchter
+Song: London Sketchbook, K. Anh. 109b: No. 22, Allegro in F Major, K. 15v
+Album: Mozart: The Complete Piano Works, Vol. 7
+Link: https://p.scdn.co/mp3-preview/81898d4fa5f90ee170201b03f52bf07219c95946?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: M-22, Medina
+Song: First Time
+Album: First Time
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 00000 Million
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/a2df52890ddc57696eec493f34e834c0fba5bfc3?cid=2ab02dc413cd4caaa55292037988af49
+-----------------------------------
+spotify-this-song 22
+---------------------
+Artists: Taylor Swift
+Song: 22
+Album: Red (Deluxe Edition)
+No Preview Link Available
+---------------------
+Artists: Taylor Swift
+Song: 22
+Album: Red
+No Preview Link Available
+---------------------
+Artists: Migos
+Song: Is You Ready - From "Mile 22"
+Album: Is You Ready (From "Mile 22")
+No Preview Link Available
+---------------------
+Artists: Kali Uchis
+Song: Flight 22
+Album: Isolation
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 22 (OVER S∞∞N)
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/93d24b43de01002a394e82313007ab0fd064c2c6?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 29 #Strafford APTS
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/3511dd24d56b17c6b2906d7110275c4f01f81812?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Abstract, Delaney
+Song: 22 (feat. Delaney)
+Album: Something to Write Home About
+Link: https://p.scdn.co/mp3-preview/c337d6cb6c7bb7f9fad2b2c5f2477834a321a444?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 33 “GOD”
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/67b51d90ffddd6bb3f095059997021b589845f81?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 8 (circle)
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/081447adc23dad4f79ba4f1082615d1c56edf5e1?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: M-22
+Song: How Does It Feel
+Album: How Does It Feel
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 715 - CR∑∑KS
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/6f9999d909b017eabef97234dd7a206355720d9d?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bay Faction
+Song: Sasquatch .22
+Album: Bay Faction
+Link: https://p.scdn.co/mp3-preview/55122c22d2357863b32447f8b662a09c7773f829?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Mau y Ricky
+Song: 22
+Album: 22
+Link: https://p.scdn.co/mp3-preview/d86c26f881271a1d4ccdb48c8005ed27aa04ce42?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Eagles
+Song: Hotel California - Live at the Los Angeles Forum, 10/20-22/76
+Album: Hotel California (40th Anniversary Expanded Edition)
+Link: https://p.scdn.co/mp3-preview/84a28e863e16a752c6956e571590ac2fae26cbc9?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 666 ʇ
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/3294569c2be3cdde2d96e7fc3cd0a612f5c282ba?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Wolfgang Amadeus Mozart, New Dutch Academy Chamber Orchestra, Simon Murphy
+Song: Symphony No. 5 in B-Flat Major, K. 22: II. Andante
+Album: Mozart: Famous Pieces
+Link: https://p.scdn.co/mp3-preview/0ccec782addbe2d20ef3728fe4179305bdfe82b8?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: mago
+Song: 22 Mai
+Album: 22 Mai
+Link: https://p.scdn.co/mp3-preview/1ee01e359824cb4a962bdbac3d85b3a24129e6ab?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Wolfgang Amadeus Mozart, Gilbert Schuchter
+Song: London Sketchbook, K. Anh. 109b: No. 22, Allegro in F Major, K. 15v
+Album: Mozart: The Complete Piano Works, Vol. 7
+Link: https://p.scdn.co/mp3-preview/81898d4fa5f90ee170201b03f52bf07219c95946?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: M-22, Medina
+Song: First Time
+Album: First Time
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 00000 Million
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/a2df52890ddc57696eec493f34e834c0fba5bfc3?cid=2ab02dc413cd4caaa55292037988af49
+-----------------------------------
+movie-this moana
+Title: Moana
+Year: 2016
+IMDB Rating: 7.6/10
+Rotten Tomatoes Score: 95%
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+--------------------------------------------
+movie-this moana
+Title: Moana
+Year: 2016
+IMDB Rating: 7.6/10
+Rotten Tomatoes Score: 95%
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+--------------------------------------------
+concert-this postmalone
+---------------
+Barclays Center
+Brooklyn
+2018-12-29T19:00:48
+---------------
+Barclays Center
+Brooklyn
+2018-12-31T18:00:00
+---------------
+State Farm Arena
+Atlanta
+2019-02-01T21:00:00
+---------------
+3Arena
+Dublin
+2019-02-14T19:00:08
+---------------
+Genting Arena
+Birmingham
+2019-02-16T19:00:11
+---------------
+Hydro
+Glasgow
+2019-02-17T19:00:06
+---------------
+Arena
+Manchester
+2019-02-19T19:00:06
+---------------
+Accorhotels Arena
+Paris
+2019-02-22T19:00:59
+---------------
+Ziggo Dome
+Amsterdam
+2019-02-25T19:00:17
+---------------
+Ziggo Dome
+Amsterdam
+2019-02-26T20:00:00
+---------------
+Barclaycard Arena
+Hamburg
+2019-02-27T19:00:37
+---------------
+Globen
+Stockholm
+2019-03-01T19:00:22
+---------------
+Royal Arena
+København
+2019-03-02T19:00:04
+---------------
+Mercedes-Benz Arena
+Berlin
+2019-03-04T19:00:42
+---------------
+Olympiahalle
+München
+2019-03-05T19:00:11
+---------------
+Hallenstadion
+Zürich
+2019-03-07T19:00:35
+---------------
+Koenig Pilsner Area
+Oberhausen
+2019-03-09T19:00:48
+---------------
+Sportpaleis Antwerpen
+Antwerpen
+2019-03-11T19:00:06
+---------------
+The O2 Arena
+London
+2019-03-13T19:00:50
+---------------
+The O2
+London
+2019-03-14T18:00:00
+---------------
+Phoenix Steele Indian School Park
+Phoenix
+2019-03-17T18:00:00
+---------------
+Lollapalooza Argentina 
+Buenos Aires
+2019-03-29T19:00:16
+---------------
+Lollapalooza Chile
+Santiago
+2019-03-29T19:00:17
+---------------
+Lollapalooza Chile
+Santiago
+2019-03-30T19:00:15
+---------------
+Lollapalooza Argentina 
+Buenos Aires
+2019-03-30T19:00:19
+---------------
+Lollapalooza Argentina 
+Buenos Aires
+2019-03-31T19:00:20
+---------------
+Lollapalooza Chile
+Santiago
+2019-03-31T19:00:51
+---------------
+Lollapalooza Brazil
+São Paulo
+2019-04-05T19:00:45
+---------------
+Lollapalooza Brazil
+São Paulo
+2019-04-06T19:00:44
+---------------
+Lollapalooza Brazil
+São Paulo
+2019-04-07T19:00:43
+---------------
+Perth Arena
+Perth
+2019-04-26T18:00:00
+---------------
+Adelaide Entertainment Centre
+Hindmarsh
+2019-04-28T18:00:00
+---------------
+Rod Laver Arena
+Melbourne
+2019-04-30T18:00:00
+---------------
+Rod Laver Arena
+Melbourne
+2019-05-01T18:00:00
+---------------
+Adelaide Entertainment Centre
+Hindmarsh
+2019-05-02T20:00:00
+---------------
+Entertainment Centre
+Brisbane
+2019-05-04T18:00:00
+---------------
+Entertainment Centre
+Brisbane
+2019-05-05T18:00:00
+---------------
+Quodos Bank Arena
+Sydney
+2019-05-07T18:00:00
+---------------
+Quodos Bank Arena
+Sydney
+2019-05-08T18:00:00
+---------------
+Adelaide Entertainment Centre
+Hindmarsh
+2019-05-09T18:00:00
+---------------
+Spark Arena
+Auckland
+2019-05-11T18:00:00
+---------------
+Spark Arena
+Auckland
+2019-05-12T19:00:00
+---------------
+Bramham Park
+Leeds
+2019-08-22T08:00:00
+---------------
+Richfield Avenue
+Reading
+2019-08-23T11:00:00
+
+-------------------------------
+spotify-this-song 22
+---------------------
+Artists: Taylor Swift
+Song: 22
+Album: Red (Deluxe Edition)
+No Preview Link Available
+---------------------
+Artists: Taylor Swift
+Song: 22
+Album: Red
+No Preview Link Available
+---------------------
+Artists: Migos
+Song: Is You Ready - From "Mile 22"
+Album: Is You Ready (From "Mile 22")
+No Preview Link Available
+---------------------
+Artists: Kali Uchis
+Song: Flight 22
+Album: Isolation
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 22 (OVER S∞∞N)
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/93d24b43de01002a394e82313007ab0fd064c2c6?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 29 #Strafford APTS
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/3511dd24d56b17c6b2906d7110275c4f01f81812?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Abstract, Delaney
+Song: 22 (feat. Delaney)
+Album: Something to Write Home About
+Link: https://p.scdn.co/mp3-preview/c337d6cb6c7bb7f9fad2b2c5f2477834a321a444?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 33 “GOD”
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/67b51d90ffddd6bb3f095059997021b589845f81?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 8 (circle)
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/081447adc23dad4f79ba4f1082615d1c56edf5e1?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: M-22
+Song: How Does It Feel
+Album: How Does It Feel
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 715 - CR∑∑KS
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/6f9999d909b017eabef97234dd7a206355720d9d?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bay Faction
+Song: Sasquatch .22
+Album: Bay Faction
+Link: https://p.scdn.co/mp3-preview/55122c22d2357863b32447f8b662a09c7773f829?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Mau y Ricky
+Song: 22
+Album: 22
+Link: https://p.scdn.co/mp3-preview/d86c26f881271a1d4ccdb48c8005ed27aa04ce42?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Eagles
+Song: Hotel California - Live at the Los Angeles Forum, 10/20-22/76
+Album: Hotel California (40th Anniversary Expanded Edition)
+Link: https://p.scdn.co/mp3-preview/84a28e863e16a752c6956e571590ac2fae26cbc9?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Bon Iver
+Song: 666 ʇ
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/3294569c2be3cdde2d96e7fc3cd0a612f5c282ba?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Wolfgang Amadeus Mozart, New Dutch Academy Chamber Orchestra, Simon Murphy
+Song: Symphony No. 5 in B-Flat Major, K. 22: II. Andante
+Album: Mozart: Famous Pieces
+Link: https://p.scdn.co/mp3-preview/0ccec782addbe2d20ef3728fe4179305bdfe82b8?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: mago
+Song: 22 Mai
+Album: 22 Mai
+Link: https://p.scdn.co/mp3-preview/1ee01e359824cb4a962bdbac3d85b3a24129e6ab?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: Wolfgang Amadeus Mozart, Gilbert Schuchter
+Song: London Sketchbook, K. Anh. 109b: No. 22, Allegro in F Major, K. 15v
+Album: Mozart: The Complete Piano Works, Vol. 7
+Link: https://p.scdn.co/mp3-preview/81898d4fa5f90ee170201b03f52bf07219c95946?cid=2ab02dc413cd4caaa55292037988af49
+---------------------
+Artists: M-22, Medina
+Song: First Time
+Album: First Time
+No Preview Link Available
+---------------------
+Artists: Bon Iver
+Song: 00000 Million
+Album: 22, A Million
+Link: https://p.scdn.co/mp3-preview/a2df52890ddc57696eec493f34e834c0fba5bfc3?cid=2ab02dc413cd4caaa55292037988af49
+-----------------------------------
