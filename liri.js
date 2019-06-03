@@ -11,7 +11,7 @@ var arg = process.argv;
 var client = new Twitter(keys.twitterKeys)
 
 var tweetThis = function(twitter) {
-var params = {screen_name: 'MollyGi57815004'};
+var params = {screen_name: 'missmolly389'};
 client.get('statuses/user_timeline', params, function(error, tweets, response) {
   if (!error) {
       for(var i =0; i < tweets.length; i++) {
